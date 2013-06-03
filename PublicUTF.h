@@ -12,4 +12,5 @@ extern int __fastcall Q11ErrorHint(TLabel *LabelHint,String Hint); //Q11接口�
 测试中文
 修改了
 2
+3
 #endif
